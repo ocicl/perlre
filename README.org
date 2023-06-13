@@ -1,0 +1,10 @@
+* perlre
+
+perl regular expression api - m// and s/// - for CL-PPCRE with CL-INTERPOL support
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jschatzer/perlre.git   |
+| commit  | 1eab95d  |
+| systems | perlre |
+|---------+-------------------------------------------|
+
